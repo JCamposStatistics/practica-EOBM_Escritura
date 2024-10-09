@@ -1,2 +1,3 @@
-# practica-EOBM_Escritura
+# PracticaEOBM_Escritura
+## Descripción
 Este es un ejercicio para aprender markdown
