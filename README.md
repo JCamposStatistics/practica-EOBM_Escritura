@@ -8,3 +8,4 @@ Conozco los siguientes lenguajes de programación
 * Python
 * R
 * Excel
+[id]: url/to/image "Optional title"
