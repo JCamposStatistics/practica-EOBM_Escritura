@@ -9,4 +9,6 @@ Conozco los siguientes lenguajes de programación
 * R
 * Excel
 [id]: url/to/image "Optional title"
-This is a 'Código'
+This is a ```Python
+print('Hola mundo')```
+
